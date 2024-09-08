@@ -35,3 +35,9 @@ Antal onigiri: 10 styks
 10. Dyp nu fingrene i lidt vand, så risene ikke klistre alt for meget.;Tag dernæst ca. 1 spsk. ris, form den til en kugle og lav en lille fordybning heri.
 11. Kom ca. 1 tsk. fyld i fordybningen og kom bagefter endnu en spsk. ris oven på og pak fyldet helt ind i ris.
 12. Brug nu hænderne til at forme onigirien til en trekant, og dæk bunden til med et stykke tang.
+
+## Videre overvejelser
+
+## Kilde
+https://nerdytreats.dk/onigiri-fra-pokemon/
+##
