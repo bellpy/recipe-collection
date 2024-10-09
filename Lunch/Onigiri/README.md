@@ -1,5 +1,5 @@
 # Onigiri
-
+<img src="onigiri.jpg" width="300"/>
 Forberedelsestid: 20 min
 
 Tilberedningstid: 25 min
